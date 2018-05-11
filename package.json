@@ -2,7 +2,7 @@
   "name": "share",
   "version": "0.1.0",
   "private": true,
-  "main": "./build/index.html",
+  "homepage": "https://loo41.github.io/share-react/build",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
