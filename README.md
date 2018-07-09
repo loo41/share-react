@@ -34,7 +34,7 @@
         data={{}}
         isExitWindows={}
         className={}
-         disable={}
+        disable={}
         windowHeight={}
         windowWidth={}
         children={}
