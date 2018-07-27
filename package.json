@@ -20,7 +20,8 @@
   "keywords": [
     "react",
     "share",
-    "react-share"
+    "react-share",
+    "share-react"
   ],
   "dependencies": {
     "prop-types": "^15.6.1",
