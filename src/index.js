@@ -9,6 +9,7 @@ import Linkedin from './LinkedinShare';
 import TencentWB from './TencentWeiboShare';
 import BaiduPostBar from './BaiduPostBarShare';
 import Email from './EmailShare';
+import Renren from './RenrenShare';
 
 export {
     Douban,
@@ -22,4 +23,5 @@ export {
     TencentWB,
     BaiduPostBar,
     Email,
+    Renren,
 };

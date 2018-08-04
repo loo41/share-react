@@ -12,6 +12,7 @@
     yarn add share-react
 ```
 
+
 ## Use
 
 ```js
@@ -34,7 +35,7 @@
         data={{}}
         isExitWindows={}
         className={}
-         disable={}
+        disable={}
         windowHeight={}
         windowWidth={}
         children={}
